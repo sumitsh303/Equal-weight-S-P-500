@@ -1,1 +1,1 @@
-# Equal-weight-S-P-500
+# Equal-weight-S-and-P-500
