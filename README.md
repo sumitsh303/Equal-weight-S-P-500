@@ -1,4 +1,4 @@
-# Equal-weight-S&P-500
+# Equal weight S&P 500
 
 The S&P 500 is the world's most popular stock market index. The largest fund that is benchmarked to this index is the SPDR® S&P 500® ETF Trust. It has more than US$380 billion of assets under management.
 
